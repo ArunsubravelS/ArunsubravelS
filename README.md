@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunsubravelS
 - 👀 I’m interested in java full stack developer role
-- 🌱 I’m currently learning java fullstack development
+- 🌱 I’ve experienced in java fullstack development
 - 💞️ I’m looking to collaborate on java projects
 - 📫 Email:arunsubravels3201@gmail.com to reach me 
 
